@@ -9,7 +9,7 @@ public class SpringBootJacocoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootJacocoApplication.class, args);
-		System.out.println("Hello World");
+		System.out.println("Hello World to jacoco");
 	}
 
 }
